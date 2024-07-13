@@ -1,0 +1,15 @@
+Scenario 36:
+Average Power Loss (APL): -2.2473017143261207
+Top-k Accuracy: [0.4821 0.7567 0.8098]
+Scenario 37:
+Average Power Loss (APL): -1.6950747356558387
+Top-k Accuracy: [0.436  0.7776 0.8534]
+Scenario 38:
+Average Power Loss (APL): -3.243870429012875
+Top-k Accuracy: [0.3495 0.6262 0.7246]
+Scenario 39:
+Average Power Loss (APL): -1.1338355753539762
+Top-k Accuracy: [0.4368 0.8092 0.9069]
+Combined:
+Average Power Loss (APL): -2.8101094498544836
+Top-k Accuracy: [0.3354 0.625  0.7477]
