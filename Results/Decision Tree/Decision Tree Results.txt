@@ -1,0 +1,15 @@
+Scenario 36:
+Average Power Loss for DecisionTreeClassifier: -0.9649585139236355
+Top-k Accuracy for DecisionTreeClassifier: [0.517  0.8129 0.8642]
+Scenario 37:
+Average Power Loss for DecisionTreeClassifier: -0.8869662827354543
+Top-k Accuracy for DecisionTreeClassifier: [0.4765 0.8299 0.8999]
+Scenario 38:
+Average Power Loss for DecisionTreeClassifier: -3.552874261232853
+Top-k Accuracy for DecisionTreeClassifier: [0.3399 0.6216 0.7117]
+Scenario 39:
+Average Power Loss for DecisionTreeClassifier: -1.133957420312523
+Top-k Accuracy for DecisionTreeClassifier: [0.4208 0.8032 0.9034]
+Combined:
+Average Power Loss for DecisionTreeClassifier: -2.45923799761945
+Top-k Accuracy for DecisionTreeClassifier: [0.3832 0.6835 0.7792]

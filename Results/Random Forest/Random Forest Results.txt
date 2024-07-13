@@ -1,0 +1,15 @@
+Scenario 36:
+Average Power Loss for Random Forest: -0.7788436274932926
+Top-k Accuracy: [0.5883 0.8468 0.8849]
+Scenario 37:
+Average Power Loss for Random Forest: -0.45277871505019385
+Top-k Accuracy: [0.5538 0.8865 0.9362]
+Scenario 38:
+Average Power Loss for Random Forest: -1.7824091050225532
+Top-k Accuracy: [0.4326 0.7365 0.8242]
+Scenario 39:
+Average Power Loss for Random Forest: -0.6742479914835978
+Top-k Accuracy: [0.4916 0.8599 0.9353]
+Combined:
+Average Power Loss for Random Forest: -1.4552762863606
+Top-k Accuracy: [0.4693 0.7727 0.8537]

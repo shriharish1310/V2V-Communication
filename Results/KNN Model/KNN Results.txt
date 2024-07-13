@@ -1,0 +1,15 @@
+Scenario 36:
+Average Power Loss for KNN Model: -2.709103820764399
+Top-k Accuracy: [0.471  0.7208 0.7768]
+Scenario 37:
+Average Power Loss for KNN Model: -1.8663123831831774
+Top-k Accuracy: [0.4697 0.7611 0.8242]
+Scenario 38:
+Average Power Loss for KNN Model: -5.531183547295713
+Top-k Accuracy: [0.2578 0.4804 0.5767]
+Scenario 39:
+Average Power Loss for KNN Model: -2.272278293211071
+Top-k Accuracy: [0.3531 0.6979 0.8203]
+Combined:
+Average Power Loss for KNN Model: -3.762630449172689
+Top-k Accuracy: [0.3373 0.5896 0.6895]
